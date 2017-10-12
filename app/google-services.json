@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1052969812716",
+    "firebase_url": "https://absensi-sekolah.firebaseio.com",
+    "project_id": "absensi-sekolah",
+    "storage_bucket": "absensi-sekolah.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052969812716:android:35a0b5cae7a1a757",
+        "android_client_info": {
+          "package_name": "id.rafilutfansyah.absensisekolah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052969812716-0stpgp7a5g1i6q3hgk6nh6j9vb3jgpe5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.rafilutfansyah.absensisekolah",
+            "certificate_hash": "928b02f96984b1cabcf18528e7849bc1e8f64bfc"
+          }
+        },
+        {
+          "client_id": "1052969812716-6n0js7j1sjrrus078f632t4dtn0jdip0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN_qDBgJSCSfGXkw8r41pZ-mnj0e56854"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052969812716-6n0js7j1sjrrus078f632t4dtn0jdip0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
